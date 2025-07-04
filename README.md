@@ -17,4 +17,4 @@ This Streamlit application uses Generative AI (Gemma 2B via Ollama) to suggest u
 - Python
 - Streamlit
 - LangChain
-- Ollama (Gemma 2B)(you can use any other llm-model or llm-runtime )
+- Ollama (Gemma 2B)(you can use any other llm-model or llm-runtime ) ollama is local LLM_runtime
